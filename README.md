@@ -1,4 +1,4 @@
-# Boilerplate wordpress barba
+# Boilerplate wordpress
 
 ## Running / Development
 * `npm run dev`
